@@ -5,3 +5,6 @@
 [submodule "rpmodel"]
 	path = rpmodel
 	url = https://github.com/geco-bern/rpmodel
+[submodule "rsofun"]
+	path = rsofun
+	url = https://github.com/geco-bern/rsofun
